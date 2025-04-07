@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Patient Link Scan System
 
 A modern web application for managing patient records with barcode scanning capabilities.
@@ -32,3 +33,6 @@ A modern web application for managing patient records with barcode scanning capa
 ## License
 
 MIT
+=======
+
+>>>>>>> 72c640cca21cc5907e54acc79aad63d38cf47efe
