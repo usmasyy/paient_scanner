@@ -59,7 +59,7 @@ const generateBarcodeCanvas = (patientId: string): HTMLCanvasElement => {
     lineColor: "#000",
     width: 2,
     height: 40,
-    displayValue: true,
+    displayValue: false,
     fontSize: 12,
     font: "monospace",
   });
